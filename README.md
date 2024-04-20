@@ -1,4 +1,7 @@
-# Walmart Sales Analysis MySQL & Tableau Project
+# 📊🎁 Walmart Sales Analysis MySQL & Tableau Project
+
+![image](https://github.com/GoutamKuiri99/Walmart-Sales-Analysis-MySQL-Tableau-Project/assets/154737280/35ee831f-d665-4852-a557-19a8f7692a9f)
+
 ## About
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales. 
 ## Purposes Of The Project
