@@ -1,4 +1,4 @@
-# 📊🎁 Walmart Sales Analysis MySQL & Tableau Project
+# 📊🎁 Walmart Retail Analysis MySQL & Tableau Project
 
 ![image](https://github.com/GoutamKuiri99/Walmart-Sales-Analysis-MySQL-Tableau-Project/assets/154737280/35ee831f-d665-4852-a557-19a8f7692a9f)
 
