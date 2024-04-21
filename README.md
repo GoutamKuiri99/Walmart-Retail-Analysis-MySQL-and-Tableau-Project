@@ -97,6 +97,10 @@ Walmart data which was realized and demonstrated with with Tableau.
 
 https://public.tableau.com/app/profile/goutam.kuiri/viz/Walmartretailproject/WalmartSalesDashboard
 
+
+https://github.com/GoutamKuiri99/Walmart-Sales-Analysis-MySQL-Tableau-Project/assets/154737280/4a37e333-3d82-4446-83a8-633d6c8db61c
+
+
 ❖ This is an in depth analysis of the Walmarts dataset. You will find interactive dashboards focused on the yearly sales dashboards displaying data collected from 2012–2015. 
 
 ❖ If there is mainly an interest in the yearly (timeline) data on profits, categories, sub categories, segments and products, then below you will find the direct link to the dashboard:
