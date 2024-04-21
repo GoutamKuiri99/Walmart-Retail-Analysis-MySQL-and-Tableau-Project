@@ -3,9 +3,10 @@
 ![image](https://github.com/GoutamKuiri99/Walmart-Sales-Analysis-MySQL-Tableau-Project/assets/154737280/35ee831f-d665-4852-a557-19a8f7692a9f)
 
 ## About
-This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales. 
+This project aims to investigate Walmart's sales data to identify the best-performing branches and products, analyze sales trends for different products, and understand customer behavior. The goal is to examine how sales strategies can be enhanced and optimized. The dataset was acquired from the Kaggle Walmart Sales repository.
+
 ## Purposes Of The Project
-The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
+The primary goal of this project is to explore Walmart's sales data to understand the various factors influencing sales and Profit at different store locations.
 ## About Data
 In this phase, we will identify and assess the features of
 our Walmart Dataset:
